@@ -1,0 +1,140 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.spring{
+    height: 40px;
+  background-color: pink;
+}
+.SPRING{
+    padding: 6px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+
+.grid img{
+    height: 400px;
+    width: 300PX;
+    justify-content: center;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.logo{
+    align-items: center;
+    font-size: x-large;
+    margin-top: -50px !important;
+    
+}
+.grid{
+    align-items: center;
+   
+}
+.drop{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(237, 238, 238);
+    justify-content: center  
+    
+}
+
+.navbar{
+    text-decoration: none;
+    list-style: none
+   
+}
+.nav2{
+    margin-left: 700px;
+    font-size: large;
+    justify-content: space-between;
+    
+}
+
+.li1{
+    color: black !important;
+    font-size: larger;
+}
+.back{
+    height: 100px;
+    width: 100% !important;
+    background-repeat: no-repeat;
+}
+.img{
+    width: 600px;
+    height: 400px;
+}
+.first{
+    height: 430px;
+    width: 100%;
+    background-color: rgb(207, 209, 209);
+
+}
+#backcolor{
+    background-color: rgb(237, 238, 238);
+    height: 4200px;
+
+}
+.gr1img{
+    width: 470px;
+    height: 500px;
+    
+    margin-left: -10px;
+}
+
+.gr1text{
+    margin-left: -10px;
+    line-height: 30px;
+    
+}#footer{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    
+    background-color: rgb(186, 186, 186);
+    margin-top: -29px;
+    min-height: 30vh;
+    
+}#quick{
+    margin-top: 30px;
+    line-height: 40px;
+    font-size: 25px;
+    margin-left: 30px;
+    padding: 50px;
+}
+#leah{
+    width: 500px;
+    margin-left: 1200px;
+    margin-top: -500px;
+    font-size: 25px;
+    line-height: 60px;
+    padding: 5px;
+}
+#email{
+    background-color: rgb(186, 186, 186);
+    border: none;
+    margin-left: 55px;
+    
+
+
+}
+.email{
+    background-color: rgb(186, 186, 186);
+    height: 50px;
+    width: 500px;
+    margin-left: 77px;
+    
+}
+#logo{
+    display: flex;
+    margin-left: 1750px;
+    width: 100px;
+    height: 300px;
+    font-size: 25px;
+    margin-top: -70px;
+ justify-content: space-evenly;
+
+}
+
+
+

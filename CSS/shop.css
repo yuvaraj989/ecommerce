@@ -1,0 +1,167 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.spring{
+    height: 40px;
+  background-color: pink;
+}
+.SPRING{
+    padding: 6px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    font-size: larger;
+}
+
+.grid img{
+    height: 400px;
+    width: 300PX;
+    justify-content: center;
+    margin-left: 500px;
+    margin-top: 50px;
+}
+.logo{
+    align-items: center;
+    font-size: x-large;
+    margin-top: -50px !important;
+    
+}
+.grid{
+    align-items: center;
+   
+}
+.drop{
+    height: 500px;
+    width: 100%;
+    background-color: rgb(237, 238, 238);
+    justify-content: center  
+    
+}
+
+.navbar{
+    text-decoration: none;
+    list-style: none
+   
+}
+.nav1{
+    margin-left: 700px;
+    font-size: larger;
+    justify-content: space-between;
+    
+}
+.li1{
+    color: black !important;
+    font-size: larger;
+}
+.back{
+    height: 100px;
+    width: 100% !important;
+    background-repeat: no-repeat;
+}
+.img{
+    width: 600px;
+    height: 400px;
+    box-shadow: 10px 10px 10px;
+    transition: 0.3s;
+    overflow: hidden;
+    
+}
+.img:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+    z-index: 1;
+    
+}
+
+#bg{
+    height: 6000px;
+        background-color: rgb(237, 238, 238);
+}
+.gr1img{
+    overflow: hidden;
+    width: 400px;
+    height: 400px;
+    box-shadow: 10px 10px 10px;
+    margin-left: 20px;
+    transition: 0.3s;
+}
+.gr1img:hover{
+    
+    cursor: pointer;
+    
+    scale: 1.1;
+}
+
+.gr1text{
+    margin-left: 20px;
+    line-height: 50px;
+    margin-top: 30px;
+    
+}
+.gr3img{
+    width: 950px;
+    height: 950px;
+    box-shadow: 10px 10px 10px;
+}
+.gr3img:hover{
+    cursor: pointer;
+   
+    scale: 1.1;
+
+}
+.gr3te{
+    background-color: rgb(230, 227, 227);
+                   
+}
+#footer{
+    margin: 0px;
+    padding: 0px;
+    width: 100%;
+    height: 700px;
+    background-color: rgb(186, 186, 186);
+    margin-top: -29px;
+    
+}#quick{
+    margin-top: 30px;
+    line-height: 40px;
+    font-size: 25px;
+    margin-left: 30px;
+    padding: 50px;
+}
+#leah{
+    width: 500px;
+    margin-left: 1200px;
+    margin-top: -500px;
+    font-size: 25px;
+    line-height: 60px;
+    padding: 5px;
+}
+#email{
+    background-color: rgb(186, 186, 186);
+    border: none;
+    padding: 18px;
+    margin-left: 55px;
+    
+
+
+}
+.email{
+    background-color: rgb(186, 186, 186);
+    height: 50px;
+    width: 500px;
+    margin-left: 77px;
+    
+}
+#logo{
+    display: flex;
+    margin-left: 1750px;
+    width: 100px;
+    height: 300px;
+    font-size: 25px;
+    margin-top: -70px;
+ justify-content: space-evenly;
+
+}
+
+
